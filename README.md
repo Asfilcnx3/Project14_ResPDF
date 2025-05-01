@@ -3,6 +3,7 @@
 En este proyecto creé un bot que le puedes hacer preguntas y te contestará (en español) acerca del PDF que le subas, puede ser de cualquier cosa, siempre y cuando cuente con texto, el PDF puede ser en español o en inglés.
 
 Modelo y Tokenizador: microsoft/Phi-4-mini-instruct
+
 Embeddings: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
 
 Herramientas utilizadas:
